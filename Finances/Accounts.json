@@ -1,0 +1,9 @@
+[
+    {
+        "address": "xyz",
+        "email": "muhammad@gmail.com",
+        "money": 50,
+        "owner": "Muhammad",
+        "password": "123"
+    }
+]
