@@ -165,7 +165,7 @@ Automatically informs vehicle owners.
 
 ### Clone Repository
 ```bash
-git clone https://github.com/bsse25002/Pseudo-e-challan-System_Semester-Project-Group-D.git
+git clone https://github.com/muhammadpriv001/Pseudo-E-Challan-System-in-C-with-Real-Time-Tracking-and-Mails.git
 cd Pseudo-e-challan-System_Semester-Project-Group-D
 ```
 
